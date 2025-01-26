@@ -1,4 +1,4 @@
-#CSCI-544: Applied NLP
+# CSCI-544: Applied NLP
 
 Course Repository
 
